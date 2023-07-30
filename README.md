@@ -1,0 +1,2 @@
+# amanku
+code for amanku
